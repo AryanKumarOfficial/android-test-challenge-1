@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Challenge Test One</string>
+    <string name="first_name_input">First Name</string>
+    <string name="last_name_input">Last Name</string>
+    <string name="email_address_input">Email Address</string>
+    <string name="register_btn">Register</string>
+    <string name="first_name_view">First Name</string>
+    <string name="last_name_view">Last Name</string>
+    <string name="email_view">Email</string>
+</resources>
